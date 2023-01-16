@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+}
+
+h1
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 25px!important;
+    box-shadow: 10px 10px 20px black;
+}
+
+button
+{
+    font-size: 25px!important;
+    width: 150px;
+}
+
+footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height: 2;
+}
+
+canvas
+{
+    border-style: ridge;
+    box-shadow: 20px 5px 20px black;
+    border-radius: 10px;
+}
